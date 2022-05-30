@@ -20,9 +20,7 @@ export const AppStyles = StyleSheet.create({
         color: 'white'
     },
     textInputStyles: {
-        borderWidth: '1px',
         borderColor: 'white',
-        borderRadius:'5px',
         textAlign:'center',
         marginBottom: '2%'
     },

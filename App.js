@@ -1,7 +1,7 @@
+import React from 'react'
 import {StatusBar} from 'expo-status-bar';
-import {Text, View} from 'react-native';
+import {Text, View, TextInput} from 'react-native';
 import {AppStyles} from "./styles/AppStyles";
-import {TextInput} from "react-native-web";
 
 
 export default function App() {
@@ -12,6 +12,7 @@ export default function App() {
             </View>
             <View style={AppStyles.text}>
                 <Text>Перевір Міхалича!</Text>
+
                 <TextInput
                     style={AppStyles.textInputStyles}
                     placeholder={'Дата:'}
