@@ -22,7 +22,8 @@ export const AppStyles = StyleSheet.create({
     textInputStyles: {
         borderColor: 'white',
         textAlign:'center',
-        marginBottom: '2%'
+        marginBottom: '2%',
+        borderStyle:'solid'
     },
 
 

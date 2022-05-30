@@ -40,7 +40,7 @@ export default function App() {
                 />
                 <button>ДАЛІ</button>
 
-                <text>Середня загрузка 30т</text>
+                <Text>Середня загрузка 30т</Text>
             </View>
             <StatusBar style="auto"/>
         </View>
