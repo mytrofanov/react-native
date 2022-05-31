@@ -11,19 +11,24 @@ export const AppStyles = StyleSheet.create({
     currentDate: {
         flex: 1,
         marginTop:'5%',
-        backgroundColor: 'orange',
-        color: 'white'
+        color: 'white',
+        textAlign:'center'
+    },
+    chipStyle: {
+        color: 'white',
+    },
+    currentDateText: {
+        color: 'white',
+        textAlign:'center'
     },
     text: {
-        flex: 2,
+        flex: 5,
+        margin:'10%',
         flexDirection: 'column',
         color: 'white'
     },
     textInputStyles: {
-        borderColor: 'white',
-        textAlign:'center',
-        marginBottom: '2%',
-        borderStyle:'solid'
+        margin:'16',
     },
 
 
