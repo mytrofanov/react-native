@@ -28,7 +28,7 @@ export const AppStyles = StyleSheet.create({
         color: 'white'
     },
     textInputStyles: {
-        margin:'16',
+        margin:16,
     },
 
 
